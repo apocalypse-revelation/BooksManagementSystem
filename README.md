@@ -1,2 +1,2 @@
 # BooksManagementSystem
-GUI+JAVASE+MYSQL+JDBC%Hibernate
+GUI+JAVASE+MYSQL+JDBC&Hibernate
